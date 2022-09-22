@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  name: SelfHosted0922
 
 variables:
   buildConfiguration: 'Release'
